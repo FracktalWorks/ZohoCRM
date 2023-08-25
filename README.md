@@ -1,4 +1,4 @@
-##Zoho CRM Basics: Modules: Differentiating Leads, Contacts, Accounts & Deals
+## Zoho CRM Basics: Modules: Differentiating Leads, Contacts, Accounts & Deals
 [Understanding Leads, Contacts, Accounts & Deals](https://www.zoho.com/blog/crm/zoho-crm-basics-differentiating-leads-contacts-accounts-deals.html)
 
 ## Adding & Managing Users:
